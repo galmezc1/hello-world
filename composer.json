@@ -1,0 +1,12 @@
+{
+    "name": "acme/blog",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/galmezc1/hello-world"
+        }
+    ],
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
+}
